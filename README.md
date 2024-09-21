@@ -3,7 +3,7 @@
 <head>
 <link rel="icon" type="image/x-icon" href="/Portfolio/Images/favicon.png">
 <title>MA Portfolio</title>
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://github.com/MatthaeusA/MatthaeusA.github.io/styles.css">
 </head>
 <h1>Matthew Ager Portfolio Site</h1>
 <body>

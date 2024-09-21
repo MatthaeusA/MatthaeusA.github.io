@@ -21,8 +21,5 @@
 <div class="hosting">
     <img src="https://dl.dropboxusercontent.com/scl/fi/l1lojl5kovm8czg322mbc/Favicon.png?rlkey=6p7qjtwfv4rl99z3b4xz0bt88&st=uvb1m5s4&dl=0" alt="link">
 </div>
-<div class="newitem">
-    Testing pull requests
-</div>
 </body>
 </html>
